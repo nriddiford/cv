@@ -1,21 +1,21 @@
 # cv
 
-
+  * [VCFTools](VCFtools/VCFtools.md)
 ## Publications
 
 #### 2017
 **Riddiford, N.**, 2017. [A survey of working conditions within biomedical research in the United Kingdom](https://f1000research.com/articles/6-229/v2). F1000Research, 6, pp.229–7.
 
 #### 2016
-**Riddiford, N.** & Schlosser, G., 2016. Dissecting the pre-placodal transcriptome to reveal presumptive direct targets of Six1 and Eya1 in cranial placodes. eLife, 5, p.841.
+**Riddiford, N.** & Schlosser, G., 2016. [Dissecting the pre-placodal transcriptome to reveal presumptive direct targets of Six1 and Eya1 in cranial placodes](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5035141/). eLife, 5, p.841.
 
 #### 2013
 
-Tsai, I.J. et al., 2013. The genomes of four tapeworm species reveal adaptations to parasitism. 496(7443), pp.57–63.
+Tsai, I.J. et al., 2013. [The genomes of four tapeworm species reveal adaptations to parasitism](PDF/2013_Tsai_et.al_Nature.pdf). 496(7443), pp.57–63.
 
 #### 2011
 
-**Riddiford, N.** & Olson, P.D., 2011. Wnt gene loss in flatworms. Development genes and evolution, 221(4), pp.187–197.
+**Riddiford, N.** & Olson, P.D., 2011. [Wnt gene loss in flatworms](PDF/2011_Dev_Genes_Evol_Riddiford.pdf) Development genes and evolution, 221(4), pp.187–197.
 
 
 ## Abstracts
