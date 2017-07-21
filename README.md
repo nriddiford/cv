@@ -1,6 +1,5 @@
-# cv
+# Nick Riddiford CV
 
-  * [VCFTools](VCFtools/VCFtools.md)
 ## Publications
 
 #### 2017
