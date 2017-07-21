@@ -39,4 +39,4 @@ Evolutionary innovation by rewiring of gene networks - origin of sense organs in
 
 ## Other
 #### Thesis
-**Riddiford, N.**, 2016. Dissecting the pan-placodal gene regulatory network reveals novel interactions driving sense organ development in vertebrates.
+**Riddiford, N.**, 2016. [Dissecting the pan-placodal gene regulatory network reveals novel interactions driving sense organ development in vertebrates](PDF/2016_PhD_Riddiford.pdf)
