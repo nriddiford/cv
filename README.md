@@ -4,7 +4,7 @@
 ## Publications
 
 ### 2017
-Riddiford, N., 2017. (A survey of working conditions within biomedical research in the United Kingdom)[https://f1000research.com/articles/6-229/v2]. F1000Research, 6, pp.229–7.
+Riddiford, N., 2017. [A survey of working conditions within biomedical research in the United Kingdom](https://f1000research.com/articles/6-229/v2). F1000Research, 6, pp.229–7.
 
 ### 2016
 Riddiford, N. & Schlosser, G., 2016. Dissecting the pre-placodal transcriptome to reveal presumptive direct targets of Six1 and Eya1 in cranial placodes. eLife, 5, p.841.
