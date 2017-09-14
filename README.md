@@ -25,8 +25,12 @@ Elucidating gene regulatory networks for cranial placode development up- and dow
 **Riddiford, N**; Maharana, SK; Schlosser, G (2017) Elucidating gene regulatory networks for cranial placode development up- and downstream of Six1 and Eya1. Gordon Research Conference Neural Crest & Cranial Placodes 5.-10.2.2017: Abstract
 
 #### 2015
-Dissecting the preplacodal transcriptome - Insights into the Six1 and Eya1 centered gene regulatory network. .
-**Riddiford, N**; Maharana, SK; Schlosser, G (2015) Dissecting the preplacodal transcriptome - Insights into the Six1 and Eya1 centered gene regulatory network. . Gordon Research Conference “Neural crest and cranial placodes”, Waltham (USA), 19.-24.7.2015: Abstract
+Dissecting the preplacodal transcriptome - Insights into the Six1 and Eya1 centered gene regulatory network.
+**Riddiford, N**; Maharana, SK; Schlosser, G (2015) Dissecting the preplacodal transcriptome - Insights into the Six1 and Eya1 centered gene regulatory network. Gordon Research Conference “Neural crest and cranial placodes”, Waltham (USA), 19.-24.7.2015: Abstract
+
+#### 2012
+Evolutionary innovation by rewiring of gene networks - origin of sense organs in the vertebrate ‘New Head’.
+**Riddiford, N**; Schlosser, G (2013) Evolutionary innovation by rewiring of gene networks - origin of sense organs in the vertebrate ‘New Head’. European Society for Evolutionary Developmental Biology (EED), Lisbon, 2012: Abstract
 
 ## Presentations
 
