@@ -4,7 +4,7 @@
 
 ### 2017
 
-* **Riddiford, N.** & Schlosser, G., 2017 [Six1 and Eya1 both promote and arrest neuronal differentiation by activating multiple Notch pathway   genes](PDF/2017_Dev_Biol_Riddiford.pdf), *Developmental Biology* In press.
+* **Riddiford, N.** & Schlosser, G., 2017 [Six1 and Eya1 both promote and arrest neuronal differentiation by activating multiple Notch pathway   genes](PDF/2017_Dev_Biol_Riddiford.pdf), *Developmental Biology* In press
 * **Riddiford, N.**, 2017. [A survey of working conditions within biomedical research in the United Kingdom](PDF/2017_F1000_Riddiford.pdf).  *F1000Research* **2017, 6:229**
 
 ### 2016
@@ -20,7 +20,7 @@
 ## Abstracts
 
 ### 2017
-* **Riddiford, N.**, Siudeja, K. & Bardin, A., 2017. Mutational signatures of somatic stem cells during aging. One-day UK Evo-Devo Symposium, London, 2017
+* **Riddiford, N.**, Siudeja, K. & Bardin, A., (2017). Mutational signatures of somatic stem cells during aging. One-day UK Evo-Devo Symposium, London, 2017
 * Maharana, S.K., **Riddiford, N.**, Schlosser, G. (2017) Gene regulatory networks for cranial placode development up- and downstream of Six1 and Eya1. 18th International Congress of Developmental Biology, Singapore, 18.-22.6.2017
 * **Riddiford, N.**, Maharana, S.K.; Schlosser, G. (2017) Elucidating gene regulatory networks for cranial placode development up- and downstream of Six1 and Eya1. Gordon Research Conference Neural Crest & Cranial Placodes 5.-10.2.2017
 
