@@ -44,7 +44,7 @@
 * **Riddiford, N.**, 2016. [Dissecting the pan-placodal gene regulatory network reveals novel interactions driving sense organ development in vertebrates](PDF/2016_PhD_Riddiford.pdf)
 
 ### Science Journalism
-* **Riddiford, N.**, 2017. [Understanding working practices of scientists](https://blog.f1000.com/2017/05/16/understanding-working-practices-of-scientists/) *F1000Research*  
+* **Riddiford, N.**, 2017. [Understanding working practices of scientists](https://blog.f1000.com/2017/05/16/understanding-working-practices-of-scientists/). *F1000Research*  
 * **Riddiford, N.**, 2016. [The hidden costs of a career in scientific research](http://blogs.nature.com/naturejobs/2016/11/28/the-hidden-costs-of-a-career-in-scientific-research/). *Nature*  
 * **Riddiford, N.**, 2016. [Young scientists need to fight for their employment   rights](https://www.theguardian.com/higher-education-network/2016/mar/21/young-scientists-need-to-fight-for-their-employment-rights). *The Guardian*
 
