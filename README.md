@@ -4,11 +4,11 @@
 
 ### 2017
 
-* **Riddiford, N.** & Schlosser, G., 2017 [Six1 and Eya1 both promote and arrest neuronal differentiation by activating multiple Notch pathway   genes](http://dx.doi.org/10.1016/j.ydbio.2017.09.027), *Developmental Biology* [...]
-* **Riddiford, N.**, 2017. [A survey of working conditions within biomedical research in the United Kingdom](https://f1000research.com/articles/6-229/v3).  *F1000Research* **2017, 6:229**
+* **Riddiford, N.** & Schlosser, G., 2017 [Six1 and Eya1 both promote and arrest neuronal differentiation by activating multiple Notch pathway   genes](PDF/2017_Dev_Biol_Riddiford.pdf), *Developmental Biology* In press.
+* **Riddiford, N.**, 2017. [A survey of working conditions within biomedical research in the United Kingdom](PDF/2017_F1000_Riddiford.pdf).  *F1000Research* **2017, 6:229**
 
 ### 2016
-* **Riddiford, N.** & Schlosser, G., 2016. [Dissecting the pre-placodal transcriptome to reveal presumptive direct targets of Six1 and Eya1 in cranial placodes](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5035141/). *eLife* **5, p.841**
+* **Riddiford, N.** & Schlosser, G., 2016. [Dissecting the pre-placodal transcriptome to reveal presumptive direct targets of Six1 and Eya1 in cranial placodes](PDF/2016_Elife_Riddiford.pdf). *eLife* **5, p.841**
 
 ### 2013
 * Tsai, I.J. et al., 2013. [The genomes of four tapeworm species reveal adaptations to parasitism](PDF/2013_Tsai_et.al_Nature.pdf). *Nature* **496:57–63**
