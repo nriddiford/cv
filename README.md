@@ -52,3 +52,4 @@
 #### [Riddiford, N. 2017](https://f1000research.com/articles/6-229/v3)
 * [Nature feature](PDF/2017_Nature_survey_feature.pdf). *Nature* **543:293**
 * [Times interview](https://www.timeshighereducation.com/news/uk-faces-biomedical-brain-drain-study-warns)
+* [PhD studies](https://www.phdstudies.com/news/Biomedicine-Faces-Dearth-of-PhD’s-in-UK/-1716/)
