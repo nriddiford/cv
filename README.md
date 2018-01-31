@@ -4,7 +4,7 @@
 
 ### 2017
 
-* **Riddiford, N.** & Schlosser, G., 2017 [Six1 and Eya1 both promote and arrest neuronal differentiation by activating multiple Notch pathway   genes](PDF/2017_DevBio_Riddiford.pdf), *Developmental Biology* **431:152-167**
+* **Riddiford, N.** & Schlosser, G., 2017 [Six1 and Eya1 both promote and arrest neuronal differentiation by activating multiple Notch pathway genes](PDF/2017_DevBio_Riddiford.pdf), *Developmental Biology* **431:152-167**
 * **Riddiford, N.**, 2017. [A survey of working conditions within biomedical research in the United Kingdom](PDF/2017_F1000_Riddiford.pdf).  *F1000Research* **2017, 6:229**
 
 ### 2016
