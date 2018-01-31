@@ -4,17 +4,17 @@
 
 ### 2017
 
-* **Riddiford, N.** & Schlosser, G., 2017 [Six1 and Eya1 both promote and arrest neuronal differentiation by activating multiple Notch pathway   genes](PDF/2017_Dev_Biol_Riddiford.pdf), *Developmental Biology* In press
+* **Riddiford, N.** & Schlosser, G., 2017 [Six1 and Eya1 both promote and arrest neuronal differentiation by activating multiple Notch pathway   genes](PDF/2017_Dev_Biol_Riddiford.pdf), *Developmental Biology* **431:152-167**
 * **Riddiford, N.**, 2017. [A survey of working conditions within biomedical research in the United Kingdom](PDF/2017_F1000_Riddiford.pdf).  *F1000Research* **2017, 6:229**
 
 ### 2016
-* **Riddiford, N.** & Schlosser, G., 2016. [Dissecting the pre-placodal transcriptome to reveal presumptive direct targets of Six1 and Eya1 in cranial placodes](PDF/2016_Elife_Riddiford.pdf). *eLife* **5, p.841**
+* **Riddiford, N.** & Schlosser, G., 2016. [Dissecting the pre-placodal transcriptome to reveal presumptive direct targets of Six1 and Eya1 in cranial placodes](PDF/2016_Elife_Riddiford.pdf). *eLife* **5:841**
 
 ### 2013
 * Tsai, I.J. et al., 2013. [The genomes of four tapeworm species reveal adaptations to parasitism](PDF/2013_Tsai_et.al_Nature.pdf). *Nature* **496:57–63**
 
 ### 2011
-* **Riddiford, N.** & Olson, P.D., 2011. [Wnt gene loss in flatworms](PDF/2011_Dev_Genes_Evol_Riddiford.pdf) *Development Genes and Evolution* **221(4), pp.187–197**
+* **Riddiford, N.** & Olson, P.D., 2011. [Wnt gene loss in flatworms](PDF/2011_Dev_Genes_Evol_Riddiford.pdf) *Development Genes and Evolution* **221:187–197**
 
 
 ## Abstracts
@@ -44,8 +44,8 @@
 * **Riddiford, N.**, 2016. [Dissecting the pan-placodal gene regulatory network reveals novel interactions driving sense organ development in vertebrates](PDF/2016_PhD_Riddiford.pdf)
 
 ### Science Journalism
-* **Riddiford, N.**, 2017. [Understanding working practices of scientists](https://blog.f1000.com/2017/05/16/understanding-working-practices-of-scientists/). *F1000Research*  
-* **Riddiford, N.**, 2016. [The hidden costs of a career in scientific research](http://blogs.nature.com/naturejobs/2016/11/28/the-hidden-costs-of-a-career-in-scientific-research/). *Nature*  
+* **Riddiford, N.**, 2017. [Understanding working practices of scientists](https://blog.f1000.com/2017/05/16/understanding-working-practices-of-scientists/). *F1000Research*
+* **Riddiford, N.**, 2016. [The hidden costs of a career in scientific research](http://blogs.nature.com/naturejobs/2016/11/28/the-hidden-costs-of-a-career-in-scientific-research/). *Nature*
 * **Riddiford, N.**, 2016. [Young scientists need to fight for their employment   rights](https://www.theguardian.com/higher-education-network/2016/mar/21/young-scientists-need-to-fight-for-their-employment-rights). *The Guardian*
 
 ### Media Coverage
