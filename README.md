@@ -41,7 +41,7 @@
 
 ## Other
 ### Thesis
-##### Dissecting the pan-placodal gene regulatory network reveals novel interactions driving sense organ development in vertebrates. **Riddiford, N.**, 2016   
+**Riddiford, N.** (2016) Dissecting the pan-placodal gene regulatory network reveals novel interactions driving sense organ development in vertebrates      
 * [PDF](PDF/2016_PhD_Riddiford.pdf)
 * [e-thesis](https://aran.library.nuigalway.ie/handle/10379/5567)
 
