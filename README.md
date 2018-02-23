@@ -41,7 +41,10 @@
 
 ## Other
 ### Thesis
-* **Riddiford, N.**, 2016. [Dissecting the pan-placodal gene regulatory network reveals novel interactions driving sense organ development in vertebrates](PDF/2016_PhD_Riddiford.pdf)
+##### Dissecting the pan-placodal gene regulatory network reveals novel interactions driving sense organ development in vertebrates. **Riddiford, N.**, 2016   
+* [PDF](PDF/2016_PhD_Riddiford.pdf)
+* [e-thesis](https://aran.library.nuigalway.ie/handle/10379/5567)
+
 
 ### Science Journalism
 * **Riddiford, N.**, 2017. [Understanding working practices of scientists](https://blog.f1000.com/2017/05/16/understanding-working-practices-of-scientists/). *F1000Research*
