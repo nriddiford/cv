@@ -49,7 +49,6 @@
 * **Riddiford, N.**, 2016. [Young scientists need to fight for their employment   rights](https://www.theguardian.com/higher-education-network/2016/mar/21/young-scientists-need-to-fight-for-their-employment-rights). *The Guardian*
 
 ### Media Coverage
-#### [Riddiford, N. 2017](https://f1000research.com/articles/6-229/v3)
 * [Nature feature](PDF/2017_Nature_survey_feature.pdf). *Nature* **543:293**
 * [Times interview](https://www.timeshighereducation.com/news/uk-faces-biomedical-brain-drain-study-warns)
 * [PhD studies](https://www.phdstudies.com/news/Biomedicine-Faces-Dearth-of-PhD’s-in-UK/-1716/)
