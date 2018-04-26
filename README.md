@@ -14,13 +14,13 @@
 * Tsai, I.J. et al., 2013. [The genomes of four tapeworm species reveal adaptations to parasitism](PDF/2013_Tsai_et.al_Nature.pdf). *Nature* **496:57–63**
 
 ### 2011
-* **Riddiford, N.** & Olson, P.D., 2011. [Wnt gene loss in flatworms](PDF/2011_Dev_Genes_Evol_Riddiford.pdf) *Development Genes and Evolution* **221:187–197**
+* **Riddiford, N.** & Olson, P.D., 2011. [Wnt gene loss in flatworms.](PDF/2011_Dev_Genes_Evol_Riddiford.pdf) *Development Genes and Evolution* **221:187–197**
 
 
 ## Abstracts
 
 ### 2018
-* **Riddiford, N.**, Siudeja, K. & Bardin, A., (2017). Mutational signatures of somatic stem cells during ageing. ADELIH - The Origin of cancer, Paris, 2018
+* **Riddiford, N.**, Siudeja, K. & Bardin, A., (2017). [Mutational signatures of somatic stem cells during ageing.](PDF/Adelih_2018.pdf.gz) ADELIH - The Origin of cancer, Paris, 2018
 
 ### 2017
 * **Riddiford, N.**, Siudeja, K. & Bardin, A., (2017). Mutational signatures of somatic stem cells during ageing. One-day UK Evo-Devo Symposium, London, 2017
